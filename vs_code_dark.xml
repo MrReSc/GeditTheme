@@ -28,8 +28,8 @@
 	<style name="selection" background="selection_color"/>
 
 <!-- Bracket Matching -->
-	<style name="bracket-match" background="search_match"/>
-	<style name="bracket-mismatch" background="error_color"/>
+	<style name="bracket-match" background="search_match" bold="true"/>
+	<style name="bracket-mismatch" background="error_color" bold="true"/>
 	<style name="search-match" background="search_match"/>
 
 <!--
