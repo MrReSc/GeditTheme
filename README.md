@@ -1,4 +1,4 @@
-# GeditTheme
+# VS Code dark Gedit Style
 Ein von Visual Studio Code inspirierter Sytle für [Gedit](https://wiki.gnome.org/Apps/Gedit).
 
 Gedit mit `C++` Code:
