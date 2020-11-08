@@ -6,9 +6,7 @@ Da ich beruflich wie auch privat Visual Studio Code (VS Code, oder auch nur Code
 ![](gedit_icon.png)
 
 ## Style generieren
-Ich bin auf einen [Style-Generator](http://scribes.sourceforge.net/themegenerator.php) gestossen, bei der man sich ein Style mit seinen Farbvorstellungen generieren lassen kann.
-
-Nach dem Herunterladen des Styles kann er in den Einstellungen von Gedit mit dem `+` Symbol geladen werden.
+Ich bin auf einen [Style-Generator](http://scribes.sourceforge.net/themegenerator.php) gestossen, bei dem man sich ein Style mit seinen Farbvorstellungen generieren lassen kann. Nach dem Herunterladen des Styles kann er in den Einstellungen von Gedit mit dem `+` Symbol geladen werden.
 
 ![](theme_load.png)
 
@@ -18,11 +16,11 @@ Wenn man wie ich, noch Feinheiten anpassen möchte, kann man das direkt in der `
 ## Ergebnis
 Da VS Code noch mehr als nur Syntaxhervorhebung macht, sieht es nicht identisch aus, aber für mich reicht es.
 
-VS Code mit `C++` Code:
-![](vscode.png)
-
 Gedit mit `C++` Code:
 ![](gedit.png)
+
+VS Code mit `C++` Code:
+![](vscode.png)
 
 Falls man meinen Style auch installieren möchte, geht das am einfachsten so:
 
