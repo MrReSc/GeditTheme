@@ -33,3 +33,8 @@ Falls man meinen Style auch installieren möchte, geht das am einfachsten so:
 `mv vs_code_dark.xml $HOME/.local/share/gedit/styles/`
 
 3. In den Einstellungen von Gedit den Style laden
+
+## Weitere Infos
+Ich habe bei [linux.org](https://www.linux.org/threads/creating-gedit-schemes.8634/) noch einen sehr ausführlichen Beitrag im Forum gefunden.
+
+Das ganze Projekt ist auf Github [https://github.com/MrReSc/GeditTheme](https://github.com/MrReSc/GeditTheme) verfügbar.
